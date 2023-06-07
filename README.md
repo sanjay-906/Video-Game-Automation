@@ -1,4 +1,7 @@
-# Video-Object-Detection
+### Automating a Video Game<br>
+
+
+####STEP 1: Object Detection<br>
 done with pre-trained YOLOv7 model, mobilenetv3 separately
 
 YOLOv7 OUTPUT:<br>
