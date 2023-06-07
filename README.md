@@ -1,12 +1,12 @@
 # Video-Object-Detection
 done with pre-trained YOLOv7 model, mobilenetv3 separately
 
-YOLOv7 OUTPUT:
+YOLOv7 OUTPUT:<br>
 ![yolo](https://raw.githubusercontent.com/sanjay-906/Video-Object-Detection/main/Output/yolov7.gif?token=GHSAT0AAAAAACA7PQLVTIPSIE6ZLYT7WARWZEABF2A)<br>
 
 
 
-MobileNetV3 OUTPUT:
+MobileNetV3 OUTPUT:<br>
 
 ![mobnet](https://raw.githubusercontent.com/sanjay-906/Video-Object-Detection/main/Output/mobilenet.gif?token=GHSAT0AAAAAACA7PQLVFATJFAXJQMWER6DGZEABGWQ)
 <br>
