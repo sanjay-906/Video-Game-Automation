@@ -4,7 +4,12 @@ Informally speaking, It's an aimbot, used to automatically detect enemies and lo
 
 #### STEP 1: Creating a custom dataset<br>
 Screenshots from the game are taken and objects are labelled<br>
-This is done using "MakeSense AI" which is a free, open source tool for labelling images
+This is done using "MakeSense AI" which is a free, open source tool for labelling images<br>
+<br>
+
+![labelling](https://raw.githubusercontent.com/sanjay-906/Video-Game-Automation/main/Output/makesense%20ai.png)
+
+The dataset contains images and their respective text files which has the coordinates of the bounding boxes of each label present in the image
 
 
 #### STEP 2: Training Yolo v7 with the dataset<br>
