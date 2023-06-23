@@ -20,6 +20,10 @@ After training for 240 epochs, The best weights were taken for testing, and abov
 
 #### STEP 3: Real time object detection from video game<br>
 
+![output1](https://raw.githubusercontent.com/sanjay-906/Video-Game-Automation/main/Output/output1.png)
+
+Live object detection from the game
+
 
 #### STEP 4: Moving the crosshair and shooting<br>
 
