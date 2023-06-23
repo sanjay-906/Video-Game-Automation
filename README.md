@@ -14,6 +14,9 @@ The dataset contains images and their respective text files which has the coordi
 
 #### STEP 2: Training Yolo v7 with the dataset<br>
 
+![testing](https://raw.githubusercontent.com/sanjay-906/Video-Game-Automation/main/Output/test.png)
+
+After training for 240 epochs, The best weights were taken for testing, and above is the result
 
 #### STEP 3: Real time object detection from video game<br>
 
