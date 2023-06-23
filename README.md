@@ -22,7 +22,7 @@ After training for 240 epochs, The best weights were taken for testing, and abov
 
 ![output1](https://raw.githubusercontent.com/sanjay-906/Video-Game-Automation/main/Output/output1.png)
 
-Live object detection from the game
+Live object detection from the game; the left part is game window and the right part is the output 
 
 
 #### STEP 4: Moving the crosshair and shooting<br>
